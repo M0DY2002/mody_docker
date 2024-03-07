@@ -1,3 +1,5 @@
+#!/usr/bin/bash
+
 #create folder for watchtower
 mkdir -p $HOME/docker/watchtower
 cd $HOME/docker/watchtower
