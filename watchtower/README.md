@@ -1,4 +1,5 @@
-# :scroll: Watchtower
+# :package: Watchtower
+
 | **Links:** | :house: [containrrr.dev/watchtower](https://containrrr.dev/watchtower/) | :octocat: [github/containrrr/watchtower](https://github.com/containrrr/watchtower) |
 | --- | --- | --- |
 
