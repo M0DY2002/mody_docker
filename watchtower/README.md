@@ -7,7 +7,7 @@
 > _Watchtower will pull down your new image, gracefully shut down your existing container and restart it with the same options that were used when it was deployed initially._
 ___
 
-## :whale: docker-compose (modified)
+## :whale2: docker-compose (modified)
 https://raw.githubusercontent.com/M0DY2002/mody_docker/main/watchtower/docker-compose.yml
 ```yml
 version: "3"
