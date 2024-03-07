@@ -1,5 +1,5 @@
 # :scroll: Watchtower
-:house: [containrrr.dev/watchtower](https://containrrr.dev/watchtower/) 
+:house: [containrrr.dev/watchtower](https://containrrr.dev/watchtower/)  
 :octocat: [github/containrrr/watchtower](https://github.com/containrrr/watchtower) 
 
 > _With watchtower you can update the running version of your containerized app simply by pushing a new image to the Docker Hub or your own image registry._
