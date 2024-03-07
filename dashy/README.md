@@ -1,4 +1,4 @@
-# :scroll: Dashy
+# :package: Dashy
 
 | **Links:** | :house: [dashy.to](https://dashy.to/) | :octocat: [github/Lissy93/dashy](https://github.com/Lissy93/dashy) |
 | --- | --- | --- |
