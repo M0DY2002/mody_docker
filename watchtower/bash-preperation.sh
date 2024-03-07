@@ -6,4 +6,4 @@ cd $HOME/docker/watchtower
 wget https://raw.githubusercontent.com/M0DY2002/mody_docker/main/watchtower/docker-compose.yml
 
 #run docker
-docker-compose up -d
+sudo docker-compose up -d
