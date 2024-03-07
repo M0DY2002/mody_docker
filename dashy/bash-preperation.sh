@@ -1,3 +1,5 @@
+#!/usr/bin/bash
+
 #create folder for dashy
 mkdir -p $HOME/docker/dashy
 cd $HOME/docker/dashy
