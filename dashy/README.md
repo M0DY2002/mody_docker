@@ -1,7 +1,7 @@
 # :package: Dashy
 
-| **Links:** | :house: [dashy.to](https://dashy.to/) | :octocat: [github/Lissy93/dashy](https://github.com/Lissy93/dashy) |
-| --- | --- | --- |
+| **Links:** | :house: [dashy.to](https://dashy.to/) | :octocat: [github/Lissy93/dashy](https://github.com/Lissy93/dashy) | :open_book: [Wiki](https://github.com/Lissy93/dashy/wiki) |
+| --- | --- | --- | --- |
 
 >_Dashy is an open source, highly customizable, easy to use, privacy-respecting dashboard app._
 >
