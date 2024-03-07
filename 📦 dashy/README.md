@@ -18,3 +18,4 @@ bash -c "$(wget -qLO - https://raw.githubusercontent.com/M0DY2002/mody_docker/ma
 - - -
 ## :whale2: install
 _to-do -> docker-compose_
+
